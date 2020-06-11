@@ -6,6 +6,7 @@
       <mapping pattern="text-area-drop-downs" type="JavaScript" />
       <mapping pattern=".gitignor" type="PLAIN_TEXT" />
       <mapping pattern="gitignor" type="PLAIN_TEXT" />
+      <mapping pattern="Anna" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
