@@ -4,10 +4,11 @@
       <mapping pattern="text-area-drop-downs.js" type="ECMAScript 6" />
       <mapping pattern="text-area-steps-to-reproduce" type="Flow" />
       <mapping pattern="text-area-drop-downs" type="JavaScript" />
+      <mapping pattern="Anna" type="PLAIN_TEXT" />
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitignor" type="PLAIN_TEXT" />
       <mapping pattern="gitignor" type="PLAIN_TEXT" />
       <mapping pattern="авпвапа" type="PLAIN_TEXT" />
-      <mapping pattern="Anna" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
