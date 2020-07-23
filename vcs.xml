@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/rinsal/QA6_Local_Coding.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SamJulia/QA6_Local_Coding.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\course_pasv" />
