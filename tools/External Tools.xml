@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="run wdio" description="Run current file WDIO" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="./node_modules/.bin/wdio" />
+      <option name="PARAMETERS" value="--spec $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+</toolSet>
