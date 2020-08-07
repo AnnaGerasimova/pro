@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
     </exec>
   </tool>
+  <tool name="Run WDIO file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ProjectFileDir$\node_modules\.bin\wdio.cmd" />
+      <option name="PARAMETERS" value="--spec $FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
 </toolSet>
